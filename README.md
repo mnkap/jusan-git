@@ -51,7 +51,7 @@ int main() {
 
 | Платформа | Ссылка              | Отвечу за |
 | --------- | ------------------- | --------- |
-| Почта     | [Ссылка](info@jmart.kz) | 24 часа   |
-| LinkedIn  | [Ссылка](jmart.kz) | 3 часа    |
+| Почта     | [Ссылка](mailto:info@jmart.kz) | 24 часа   |
+| LinkedIn  | [Ссылка](https://jmart.kz/) | 3 часа    |
 | WhatsApp  | [Ссылка](https://api.whatsapp.com/send/?phone=%2B77009907711&text=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F129.0.0.0+Safari%2F537.36&type=phone_number&app_absent=0) | 30 минут  |
 | Telegram  | [Ссылка](https://t.me/jusanshoptg)     | 5 минут   |
